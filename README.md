@@ -1,6 +1,8 @@
 <h1 align="center">Chào 👋, mình là QuanLeHoang</h1>
 <h3 align="center">Một người chuyên về ngôn ngữ C++ và chuyên nghiên cứu về an ninh mạng</h3>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=QuanLeHoang&label=Profile%20views&color=0e75b6&style=flat" alt="QuanLeHoang" /> 
+</p>
 <p align="left"> 
   <a href="https://github.com/QuanLehoang">
     <img src="social (1).png" alt="social (1).png" />
